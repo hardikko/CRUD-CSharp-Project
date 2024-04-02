@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CRUD_OperationSP_Con/1.0.0": {
+        "runtime": {
+          "CRUD_OperationSP_Con.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CRUD_OperationSP_Con/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
